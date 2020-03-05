@@ -1,0 +1,14 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "LWCDynamicElement",
+      "versionName": "Spring '20",
+      "versionNumber": "1.0.0"
+    }
+  ],
+  "namespace": "",
+  "sourceApiVersion": "48.0",
+  "sfdcLoginUrl": "https://login.salesforce.com"
+}

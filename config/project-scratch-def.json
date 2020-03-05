@@ -1,0 +1,10 @@
+{
+  "orgName": "LWC Dynamic Element",
+  "edition": "Developer",
+  "hasSampleData": false,
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}
