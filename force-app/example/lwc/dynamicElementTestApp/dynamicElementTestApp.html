@@ -1,0 +1,13 @@
+<template>
+  <c-dynamic-element
+    tag={rootNode.tag}
+    attrs={rootNode.attrs}
+    children={rootNode.children}
+  ></c-dynamic-element>
+  <div>
+    <button onclick={addIcon}>Add Icon</button>
+    <button onclick={removeSelectedIcons}>Remove Selected Icons</button>
+    <button onclick={addContainer}>Add Container</button>
+    <button onclick={removeContainer}>Remove Container</button>
+  </div>
+</template>
